@@ -1,4 +1,4 @@
 hello-world-github
 ==================
 
-Just another repository
+Just testing a simple tutorial. 
